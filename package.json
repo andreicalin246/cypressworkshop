@@ -1,0 +1,23 @@
+{
+  "name": "cypressworkshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreicalin246/cypressworkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreicalin246/cypressworkshop/issues"
+  },
+  "homepage": "https://github.com/andreicalin246/cypressworkshop#readme",
+  "keywords": [],
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
